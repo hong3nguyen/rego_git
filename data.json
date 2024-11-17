@@ -35,6 +35,13 @@
         "ip": "8.8.8.8"
       }
     },
+    "bob2": {
+      "roles": ["employee", "billing"],
+      "location": {
+        "country": "USA",
+        "ip": "8.8.8.8"
+      }
+    },
   },
   "role_permissions": {
     "customer": [
