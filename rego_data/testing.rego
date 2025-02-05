@@ -4,6 +4,6 @@ default allow = false
 
 allow {
   input.method == "POST"
-  input.path == "/notify-leader/"
+  input.path == "/preprocessing-gateway"
   # Add your custom logic here
 }
